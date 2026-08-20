@@ -1,0 +1,11 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+owner           = "seu-usuario"
+location        = "brazilsouth"
+location_code   = "brs"
+
+# Valores opcionais:
+# environment   = "lab"
+# cost_center   = "learning"
+# extra_tags = {
+#   repository = "hub-spoke-lab"
+# }
